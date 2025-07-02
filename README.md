@@ -2,7 +2,7 @@
 This is a macropad for personal use. It has six keys, a rotary encoder with a switch, and an OLED screen. I used KMK firmware to code the macropad. I used the macropad as an introduction to PCB design and to increase my CAD experience. 
 
 ## CAD
-I used Fusion360 to create my macropad case. There are two parts: a bottom and a top. 
+I used Fusion360 to create my macropad case. There are two parts: a bottom and a top. In the physical model, the PCB will be moved up to allow enough space for keycaps to be pressed. 
 ![Alt text](image-1.png)
 
 ## PCB
